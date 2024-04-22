@@ -2,8 +2,8 @@
 Projeto desenvolvido no Senai Suíço-Brasileira "Paulo Ernesto Tolle" com o intuito de fazer o consumo de uma api. API
 
 ### API UTILIZADA
-Github Repositorio Da API: https://deividfortuna.github.io/fipe/​
-Documentação: https://github.com/deividfortuna/fipe​
+- Github Repositorio Da API: https://deividfortuna.github.io/fipe/​
+- Documentação: https://github.com/deividfortuna/fipe​
 
 ### COMO FUNCIONA
 
